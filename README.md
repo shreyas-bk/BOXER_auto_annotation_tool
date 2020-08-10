@@ -11,3 +11,5 @@ Notes:
 - Salience maps are optional (can be toggled)
 - Images with bounding box around the object as well as a text file for the annotation can be saved
 - Salience maps works best with light colored, stable backgrounds
+
+![example](phone_annot_ss.jpg)
