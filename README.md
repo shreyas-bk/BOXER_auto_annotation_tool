@@ -3,6 +3,15 @@ Real time automatic creation of bounding boxes as well as salience maps around d
 
 No model training required as it only uses difference in feature maps between the image of the object and the image of the background.
 
+# Examples
+Bounding box creation around detected object:
+
+![example](phone_annot_ss.jpg)
+
+Bounding box creation around detected object with salience map highlighted:
+
+![example](phone_annot_ss_salient.jpg)
+
 Requirements:
 - cv2
 - tensorflow
@@ -12,4 +21,4 @@ Notes:
 - Images with bounding box around the object as well as a text file for the annotation can be saved
 - Salience maps works best with light colored, stable backgrounds
 
-![example](phone_annot_ss.jpg)
+
