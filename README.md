@@ -3,8 +3,8 @@ Real time automatic creation of bounding boxes as well as salience maps around d
 
 No model training required as it only uses difference in feature maps between the image of the object and the image of the background, hence it can run in real-time.
 
-# Google Colab Link for tutoriak
-[Link](https://colab.research.google.com/github/shreyas-bk/BOXER_auto_annotation_tool/blob/master/BOXER_Make_Bounding_Boxes_Around_Objects.ipynb)
+# Google Colab Link for tutorial
+[Click herw to open the notebook](https://colab.research.google.com/github/shreyas-bk/BOXER_auto_annotation_tool/blob/master/BOXER_Make_Bounding_Boxes_Around_Objects.ipynb)
 
 # Examples
 Bounding box creation around detected object:
