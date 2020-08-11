@@ -1,7 +1,7 @@
 # BOXER_auto_annotation_tool
-Real time automatic creation of bounding boxes as well as salience maps around detected objects for fixed backgrounds
+Real time automatic creation of bounding boxes as well as salience maps around detected objects for fixed backgrounds.
 
-No model training required as it only uses difference in feature maps between the image of the object and the image of the background.
+No model training required as it only uses difference in feature maps between the image of the object and the image of the background, hence it can run in real-time.
 
 # Examples
 Bounding box creation around detected object:
